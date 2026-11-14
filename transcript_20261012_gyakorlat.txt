@@ -1,0 +1,93 @@
+Ez a törtottunk, hogy jelen pillanban csak egy dobás, jelenít meg a renceres, nem egy statistikát érké.
+A perszeret, minkol, hogy elérni, hogy itt a dobás számban, mit megvadunk, a nyiszorha, és a végre nezt a műveletet.
+És ezt egy listából ednékben. Tehát nem egy szermegy, jelett nem számott, nem több ször, jelett nem számott, és ezt a számott fogjuk megvávósítani.
+És akkor ezt a dobást kéne több ször, végre a tanig, és azt mondom, hogy itt egy olyan szikluszt fogunk rejtrahozni, ami meg a sziklus változajat, nem igazán kell fel használunk.
+Ezt x-ár fogjuk végre, a nyiszorha, ezt megattól fükholy, a dobás számban, milyen érték van, azt a dobás számban lévő értéket, azt gyeret, fükvényel tudjuk megvérni.
+De végéde ott egy string van, végre pedig számra van szükségünk, hogy ilyen száltalak ígyjuk, még egy integer fükvényel, és akkor ez egy teljes szám lesz.
+És amiben ezeket a dobásokat rökszétjük, az menjük legyegyeret, rítmények nevű, rista, és ezt a ristát előre meghatarzom, hogy ez megkor a lesz valójakban,
+hogy ami elnulátok kezdtődnek a rista indekszerései, és a rista indekszerései nekünk kégezából egy től lehérdekes.
+Ezért egy olyan műveledtőége rajtok, ahhoz, amit je hét szeretnunk végre, hogy ennek a listeának a kezdő értéget nól lázom, és nól látolatik, nól lázom, de mi ezt az indekszer csak az első tőfogjuk fel,
+felhasználni, benne, hogy az első tőhasználják fel akkor az első indekszeri elemme az egyes dobások, kettes indekszeri elemme, kettes dobások, kerülnek és itt alám.
+Jól és akkor ezeket az eredményeket, ezeket az eredményeket, ezeket fel tőtjük dobásokkal, és az egyes az eredményekben az egyes gazából.
+Melyiket nővelem, mindegyiket nővelni kell egy elom, ennyi elményikre mutatott, tehát az indekszer elemét határozjuk meg ezzel a dobászáma, és azt az indekszerelmet egy elővejük, egy elővejük.
+Tögyeszteltői tönbötitlét rossztunk, mól láztukat tönböt, és a tönbindek szerintre használom fel ezt a ném vántozott, és ez a nyisszor fogg, ez a ciklus lesz a ellenni a hányérték voltottam.
+Bemenetnél, hogy alapját elmésbe tízde ezen tudunk vátosztadni, itt egy és hat közötti vértlen szávodgen áll, de az nem a szám érdekes mi, megünk, ugye ha nem az a szám fogja ennek a listának az indekszer itt meg határozni.
+És amha ötöst doktunk, akkor az ötösindek szüübe, akkor megkerülni egyetőbb és itt a van. Jó tehát okor így kerülbe, ez az az érték, és akkor itt pedig, ha a dobászállett mennyit, eredményen kett ide megjenerítjük, de hogy ez egy listát, és a listát igazából így,
+nehéz lesz, megintem, oda egy tekst, információt várt, de atopt valamián szöveg lesznek szükségni.
+Vagy ezeket az eredményeket egy szöveg nevű, stringbe kellene, valahogy összefűzni, és ezt összefűztem egy szöveg nevű stringbe, akkor azt a stringet, két tudom gyeradni, és valahogy összefűzőm ezt a stringet új, alakó kéha a nyomtatási képp is, vagyunk képpen.
+Tehát hogy ne csak egy szám sor legyen, hogy egyesből megyit doktam, helyen egy értelmeszető dolog, és hídunk annak, hogy ezt a szöveget, de valahogyjuk, hogy ez egy nól láról hídunk szöveg, és összefűzjük ennek a megénytésnek a sorait, ebben a szöveg nevű változóba.
+Hát ezt is egy forra, fogom még rajta, de itt az indexel és szükségem lesz, hogyha nyas doktam, és itt a egy rencs matárosza meg, ezt az értéket, és elveget, hét az jó le, ne de hogy egy törkén egyik tani, egy törhatik ezt a...
+Ja, ezt az néle, magyász, hogy került ide bede, ezt őtettebe, hát félig jól, de nem így akaron, csinálni, jó, de átokor egy cikluszt létre azok, amiben ezt...
+Lék szeretni, mert nyeseket az eredményeket, mindig az ilyediket, és a szöveg hest mindig hozzáfűzők egy stringet, mondjuk egy, egy formázott stringet, sebb a formázott string be, mondjuk összők kírat, náma, hogyha nyas doktum, tudjuk lenne, hogyha az ilyedik dobás, mondjuk itt az...
+Na azt nem egy ez egyes kockát, hány szor, doktuk, és az hány szor doktuk, az az eredmények be van benne.
+Tánatabb egy hívatkozunk az eredmények, több, ilyedik, elemére, esetleg még, kota végén bejertük, hogy darab, most hest így be fűzükok az egy egész sorlesz, tehát a kordak elenek még egy sorleszárót, tenni, és akkor megjelenika, megjelenika, a végén az sor emelés.
+Tehát ez már valamennyire egy fogműködni, mert egyékt a konfigurára snál, változtottuk ennek a...
+ennek a alapértelmedését, és most már szövega, ez egy string lesz, ami én formázott szövegdátval.
+Elindítom, és a dobást kikkenem, akkor látjuk, hogy így változik, és mondjuk százattogok.
+Akkor, akkor, hogy változtok, azérték, az öt százattogok, akkor így változtok.
+Hát kicsit vastag, meg mindegy, az a alapértelmedését érték az ilyen.
+Jó, tehát akkor itt ez már működik, ez már működik, olyan probléma lehet még,
+hogy a Elindítom, és itt nem számotod.
+Gyakor lefagy a rencer, ugye szólenni, ezt kivédenim, hogy nefagy jól le, illetve.
+Tehát ez csak egy nagyon ért, hogy ez egy kicsit nügyesztem, amit olyan az a tráj, hogy egy műveletettel lehet végeztettni.
+Mere, nyilés, ha az a művelet, sikérös, akkor nincsen mi van.
+Ha nem sikérös, akkor meg vizsgálni lehet, ami hóta.
+Probleman, és a hibakótófüggen lehet üzeneteket megjáintai.
+A leg egy szép büzenetek, azok integrálban vannak ebben módóban.
+Meszégy bokszok, segítségével.
+Atof, hogy milyen jellegy hiba van, több féle, meszégy boksz, van, amelyek csak egy értesítés meg, figyelmesztett.
+És csak a kezából, amek nézük, akkor a hiba üzenet, ez egy gombos.
+Tógok, direttel nehetnek, olyan üzenet, a tablakok a két gombos,
+mondok, olyan nap már van viszatérők.
+Értékés, akkor vizsgáljtjuk, hogyha akkor az eredményennek, a hiből üzenetnek, ki, hogy igen, nem.
+És a atofüggen atofüggen.
+Vizsgáljtjuk tovább.
+Jó, tehátok egy ilyen messzicsból szült is fel aztán, hogyha rosszadatott érbe.
+Az érbe, az érle több.
+Jeltől, amelyit, hogy akkor ezt is elmondom, hogy itt lehet ne emben az ablakban menütt is.
+Melyit ráozni, meg több ablakos, tehát több el messzicsból szült és melyit több ablakos.
+Megholdást próbáltunk ki, tehát, hogy lehet egy menő objektumott is definiálni.
+Megtelvezük, hogy mi legyen a menő.
+És akkor több, hogy ebben az ablak érdelsel, tehát menő az egy objektum,
+illetve jostán, amit örököltethetünk, itt a saját rencerünkbe.
+És ez a menő, ez alka masarra, hogy hozzá együnk menő pontokat.
+Menő sorhoz hozzáatunk, egy újabb menő pontot.
+Ezek ez a menő pontokhoz lehet egyből parancsot hozzállani,
+végrehajt.
+És hogy akkor lehet ilyen kaskáldóat menőt is, de éltelvezni, hogy a fáj azt csak egy menő csoport,
+meg a súból csoport, és az alatt lehet még menő pontokat.
+De éltről az negy, tehát töjgéppen akkor, amit dekini átunk menős volt,
+azt tovább építjük.
+És a menő öröklég azt az alatt menőt.
+Prósz még hozzáatunk, amelyen őket minden egyes menőbe hozzáatunk.
+A menőket és ezeket át a végén úgy érvényesítjük, hogy kaskáldójuk a meghatározok,
+hogy ezek a pontok, melyik menő ponthoz tartoznak meg.
+Ezek a pontok, melyik menő ponthoz tartoznak.
+És akkor így lehet egy menővezérelt programatis elkészítem erre van itt egy,
+erre van itt egy példa, megmégatos lehet, hogy több ablakos, topplő,
+akkor az első készítünk, ahol van egy alapablak és ahhoz hozzáatunk,
+kapcsolni még egy másik ablakot.
+És ebbe az ablakban is, valamit végre egytünk és akkor tának.
+Érünk hiszen az alapablak hozzá.
+Jó, tehát akkor ezt kettőt, még itt tehez a kettőre kérgészítjük,
+tehát hogy itt az a gond, hogy itt történik az általakítás.
+Jeste innen kéve szem.
+Meghoz történik az általakítás, ott hibávar.
+Végzőt tett, még lenni az egy darab.
+Vát azó, és a darabot pedig előtte definjájuk.
+És azt mondom, hogy nát lehet egy tráim, megjel egy tráim,
+hogy ez ebbe az darabban alakítjuk gond.
+Nem, be a darabban alakítjuk átos, amit kivettem olyan.
+Jó, tehát honnan kivettem egy kiholvastom, a gettem.
+Azt az életéket, amit olyan a bajítunk, és ezt általakítom egész számá.
+De nem biztos, hogy az általakítás ez, működni fog.
+Itt azt vizsgáljuk mondjuk, hogy az érték az jól.
+Az érték az jól, nem ért az, ami az általakítás.
+Nár volt, és azt mondjuk, hogy csináltam nem jó.
+Ez általakítás, nem jól az érték, amit kaptunk.
+Akkor mondjuk egy messzeigbox. A messzeigboxet azt a tékával.
+Ilyen, amit minden is messzeigboxot, ezt minden is tudjuk kiérni.
+És elég engem kicsói fog.
+Tehát, hogy megjénk egy ablag, és abba annak az ablag, amíg a címé.
+Híbal, illetve, hogy milyen üzenet jelenyel meg, hogy nem számottadod.
+Jép, ennél a mot. Meg.
