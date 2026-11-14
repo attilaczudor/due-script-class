@@ -1,0 +1,22 @@
+# Media files
+*.mp4
+*.mov
+*.m4a
+*.wav
+frames_*/
+
+# Data files generated at runtime
+mentes.txt
+mentes.csv
+mentes.json
+mentes.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# macOS
+.DS_Store
