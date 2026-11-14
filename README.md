@@ -83,8 +83,8 @@ python main.py
 
 ## 6. Órai Leiratok (Transcripts)
 
-A repository tartalmazza az órák teljes, időbélyeges átiratait:
-- `transcript_20261012_gyakorlat.txt` (Gyakorlat – Kocka alapok)
-- `transcript_20261019_eloadas.txt` (Előadás – OOP refaktorálás és TXT mentés)
-- `transcript_20261026_eloadas.txt` (Előadás – CSV, JSON és SQLite3 alapok)
-- `transcript_20261102_eloadas.txt` (Előadás – SQLite összesítés és Flask kliens-szerver)
+A repository `data/` mappája tartalmazza az órák teljes, időbélyeges átiratait:
+- `data/transcript_20261012_gyakorlat.txt` (Gyakorlat – Kocka alapok)
+- `data/transcript_20261019_eloadas.txt` (Előadás – OOP refaktorálás és TXT mentés)
+- `data/transcript_20261026_eloadas.txt` (Előadás – CSV, JSON és SQLite3 alapok)
+- `data/transcript_20261102_eloadas.txt` (Előadás – SQLite összesítés és Flask kliens-szerver)
