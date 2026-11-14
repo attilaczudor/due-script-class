@@ -1,0 +1,437 @@
+- Mert kérdésen. - Igen, már olyan.
+- Estált.
+Python projektet mi korr kell áll ki, eszítani?
+- Eh, mi egyet, 1 tizárom, hagytünk, és ezt,
+én úgy terveztem, hogy a 19-t, de dikéten,
+itt elővezet nem inden ki.
+Saját testét, vagy az a saját projektét,
+és akkor azt megkal, hogy tű közösen.
+Lóttáltok keresz, híg azából, akkor 19-t,
+vr-kémák készüjen, beledni.
+Lók, de emlékeim szerintod, nem attam idő pontott.
+Aladatok már.
+Olyek, feladat.
+Ez volt a terjedő.
+Ez csak a feladat.
+Én nem tudsz temki, nem tudsz szerint.
+Egyet, nem tudsz csak piszt, akkor elgényet van.
+Én nem tudsz, és csak korr.
+Mindenj, akkor azt kifogom érdélyó, ezt meg átkegondolom,
+hogy mi lesz ez a feladat.
+De ezt szerintem közétettem, hogy a határidő minesz,
+hogy ez pontosan hova fog esni.
+Az az idő pontott, akkor meg kell nézenek,
+amit a nopparam a jó, hogy meg 14 érké.
+Ez volt a kérdés, igen.
+Enke szorán.
+Oké, más kérdésem a még.
+Jó reggetanerur.
+Bacsán a most engem de tüssz a hálózat.
+Egy vagy enkérdés, amit nem nagyon.
+Tesszük, teszed fog gűktudni, pôltal,
+hogy a nagyára most szítem.
+13 étem, hogy én pôltalásokkal,
+fogalapozni jó.
+A kis kénecsődjóra.
+Projekével volt, kontroll egy valami lenne barattak,
+akkor ott lesz tőség.
+Jó.
+Van lenne köszönöm szétem.
+Jó, akkor másni, így.
+Jó.
+Akkor megintjük a voltkoly valata tot.
+Ez mís volt itt, igen.
+Nem azt, hogy mi volt áll, hogy míg is volt az engem.
+Felata tudj egy ittartottunk,
+hogy létezves tudunk egy front ván,
+vagy egy frontendet,
+az egész picit általakítánk.
+Megadott, bemenetem,
+megadott értékű,
+vagy számú dobást tudunk végreaitani.
+Tudunk végreaitani,
+jól két szeldobbja,
+mert módosztani, ötven szér,
+ötvenet Dom, és ezt le tudjuk menteni,
+több fél fájbad,
+de ezt fogjuk aztán ezt a mentés-eskóelbe,
+és itt megítottam még a az-eskóel.
+Lájt,
+brozerít,
+és amit mentek az mindig,
+megérül, egy mentés-es,
+az egyre korkintítít.
+Megéránik, jól tátudj,
+ez a kis programunk,
+és ezt fogjuk picit általakítani,
+mégkozá,
+itt az előbb,
+valahogy ez ide bekerül,
+és egy technopetem éste,
+itt a kocka abból van két félre,
+osztály definició,
+jól, hogy ez mindenképp ez nem tudom lehet,
+hogy csak példa volt,
+hogy ez itt maradj,
+ezért jelzés ként is megjelnek,
+egyet a követkele definiciónál,
+hogy jelzé,
+jól, hogy akkor ezt a részt itt,
+kitörőjük,
+nem emlékszen mi volt,
+azt ott kitörőjük,
+és olyan mihet tőre göz.
+Ilyen lehet ez a jelzés más volt,
+más miatt ez,
+mindegyelz nem kell,
+visszitosan nem lesz rá szükség,
+mi volt még akkor ezeket,
+majd benne tartjuk még magába
+az aplikációban,
+nem az aplikáció,
+az akkor újjött létreholyit,
+létrehoztunk egy kocka abbot,
+amit itt a kocka dobas,
+igen, a kocka dobas,
+nostajból példányosítottunk,
+hogy a mentéseskol bezkelnekünk,
+és ima mentéses seket,
+legyenkeben ez a részami,
+szükségünk lesz,
+és akkor itt volt magaz,
+aplikáció,
+amit elindé tunk,
+és ahoz meghasználjuk ezt,
+neszedozta,
+és amit még szeretnék itt,
+hogy elég futszán néz kéne,
+jelest minden indéta,
+de én nem kéne,
+elég futszán néz kéne,
+hogy úgrál a képernyőt,
+tehát ez eledményhez,
+lehet, hogy az elény,
+egyből be kellene,
+tehát nunk egy,
+egy dobás csó,
+és a dobás az,
+az itt saját,
+függvény,
+egyet van a dobás függvény,
+k az azt tájla irázba,
+tehát megvált az tenni,
+hogy ugye ez az éjtcev az függvényes,
+amit kól legyre hozzuk ezt az aplikációt,
+az odabb érd dolgok azok eringlólnak,
+tehát a krast mondhatjuk, hogy itt egy,
+jól tehet dobás,
+nagyhoz,
+azt zathálasztok,
+nem tudtod, az a...
+Pények, és majd...
+Az ezeket nem biztosé fők aztán,
+ilyen az ezeket a bombokat,
+jelenleg még rajta hajdnám,
+tehát gyakor negy,
+négy úszon itt össze az a kettő,
+hogy a prehze mentéshez,
+itt van a mentéses küljelben,
+nem ide még tennégek,
+és...
+Medig szednek,
+az nem is kellene végvetóanek,
+nincs íbszilon kordina,
+az íbszilon és volt,
+jól, menjük a de vettesegék,
+és akkor nem csúszik,
+kenyérőszimint ott,
+agyább úgy néz ki mint a tehát ér,
+jól.
+No, akkor...
+ez a mit még szeretnék,
+vagy szertem, a modosítani,
+tő,
+még volt van, ami a mit szeretem,
+modosítani,
+járhaj, járhaj, ide,
+vagyunk elhelyeznék,
+ide még itt van egy kis hely,
+ez a núladik hozzlop,
+ez núladik, ez elsőhoztok,
+núladik, elsőhoztok,
+soraba,
+elhelyeznék egy gombot,
+ami vél,
+műk egy véletlen számú,
+ívéletlen számúg generálnánk,
+ami tidebe így,
+úgy mennyi dobja,
+és az lesz egyen véletlen szám generálás,
+és akkor ez magát ezt a
+metodost,
+ez egy kibő így,
+hogy mondjuk, ez az aplikációt,
+az is lehet, nem persze,
+hogy itt az elevez az osztálybat,
+te szültben,
+és mindegy az osztályból,
+most már őrkörtünk,
+egy csomó mindent, akkor
+nem volt együk be ide az aplikációba,
+tehát egy ez egy osztályból az aplikáció,
+és akkor egy legyen,
+mondjuk egyébben véletlen,
+nem dobás szám,
+véletlen,
+engem elállt,
+láss, és akkor,
+mert,
+és akkor ez egy saját,
+fübény.
+De azt most csak de a finiát,
+és erre kellene, ezekünk egyik gombot elhetni,
+itt van már egy gombunk,
+egy gombára helyez,
+és az kapcsorodó megjelintés,
+ez nublikáltjuk is ezt a,
+törtés,
+olyasztoké, csortes váltérjük,
+jó,
+nem tudom azt, hogy a véletlen,
+véletlen, gombot,
+ne vű, gombunk,
+és ezt műkát nevezük,
+dobás számnak,
+és megjük a,
+a dobás.
+Nem a dobás szám, nem véletlen,
+véletlen, dobás szám,
+fügvéint, előtt,
+nem tudom, fügvéint,
+kintor, azt mondtam, hogy
+ezt a gombot,
+ezt a véletlen,
+véletlen, gombot,
+helyez a korácsba az egyék,
+négy, négy, négy, ben,
+azt néz a volt, vannak,
+pihadjjuk,
+a csincs az előző,
+de az egy kibüvítettük,
+akkor azt,
+nézt és, hogy megjénk,
+ez a dobás szám és
+gyaszalatni kellén,
+hogy érrelák,
+likkelek, akkor itt egy véletlen szám,
+jelenjel meg,
+tehát a kibüvítettük,
+ez a fügvéint kell,
+akkor itt definiánom,
+és akkor egy azt,
+én nem tudja, hogy lehet,
+hogy lehet, hogy lehet,
+véletlen,
+a nem tudom,
+egy kiderül,
+rándom,
+rándomat, akkor már,
+valahol,
+igen, a rándomat,
+valahol gire aztán,
+járjén peszel a dobásokra,
+tehát akkor a dobásokra,
+a rándom, és akkor ezen,
+berül meg kellene,
+künk még a,
+rándom, a berül rándint,
+tehát nem akarjászt,
+megjénk,
+ebben, hogy nem valahol,
+egy rándint,
+amit nem látja,
+a rándintet,
+úgy van, múgy rándom,
+ként rándomat, rándom, ként használjuk,
+és,
+ervegitteszt látni a kellene,
+és még sem látja,
+és még egyszeretjön.
+Rándom,
+látja és akkor,
+a rándintet, mert, hogy látja,
+ez,
+künk, ide,
+be, te szüki,
+de, ervegitt van a,
+a,
+a, modul hívás, tehát, hogy akkor azt meg kellene,
+látni, tehát nem kellene,
+ebben,
+szkóbba,
+és betenni,
+mod,
+ezért de köszönj, mert, mert, nem látja,
+ezt a rándintet,
+meg magát a rándomat, azt látja,
+rándom,
+rándom,
+és,
+rándom,
+azt látja,
+rándintet, és nem látja.
+És kondok, hogy mi látja,
+a problema, hogy ezt nem látja,
+nem idejba ide, ezt ennek utána nézünk,
+jó, majd a kasmondom, hogy legyen itt több száraz,
+adok egy,
+akkor ez nem vére, hogy nem érteig, rest,
+nem egy konkrét érték,
+majd a kumptána nézek, hogy mert,
+mert nem látja, mert, mert,
+Most visszont az, hogy hogy nem használjuk, mégse a óse.
+Ezt a rándomot.
+Szecséksében, hanem portájuk, miért a kvázdtél, ezért mert, hogy impord.
+Impord rándom. És meg ezt ki próbálom, mert ez.
+Alkozott.
+Rándom, oppán, hova s megveláttéljén. Rándom.
+Rándom, rándom, így igen.
+Szeren, mondok, oda, hogy mi volt itt a probléma, hogy lehet jüjen néven, akartam.
+Impord rándom, és csak lehet, és csak azt, akkor.
+Még a modót, jó, koritam, hogy itt legyen a, legyen, hát, hogy a doban s szám, az regábbe, legyen tíz, jó.
+Egyet, ne dobjunk már, nagy, meg a doban, hogy tizeltés, akkor a, hogy itt legyen 500, a Maximanch,
+dobban s szám, amit lehetre, akkorunk hozzani.
+Tárhatok, hogy lesz, hogy szám, komi bekerü egy vihiret lesz, szám, hogy egyis szerdogjunk, és ezt szeretnénk ebből az antríbe megjeleninteni.
+Az pedig már innen szár, az ott szerintem az antríbe.
+Ha, való, itt kell legyen, a bemenet, vagy még.
+Orában, nem innen itt kell legyen, nem látom, hirt, egy, ha, hirt, ha, az antríbe.
+Tárhatra jennek a megjelintés értiéke az a doban s szám, hogy ezt, ha tartárosztuk meg az elén,
+mint egy, mint egy stringet, jó.
+És akkor ezt kellene megjeleninteni, úgyanabbana, úgyanabbana, azértékben,
+van is az a szienti, hogy itt a úgyanabbana pont, úgyállabbana pontban.
+Nem, tehát ott van a is voltan el, az a dobasszán, mi gön, dobasszán,
+és a dobasszán volt, úgyan kellene definien, a kestetettel, úgyan definiál,
+hogy az, múgyan, akkor az szám kerülbe, csak hogy maga az szám az egy integer,
+értiéke, és ott megre, tehát, nem a stringent, jelenintetik meg,
+kéneztek, akkor át kellene, alakítanunk egy stringet, figvényel, stringnek,
+és az slyát, hogyha, hogy gönnálunk egy véletlen, mennyiséget, hogy hátszva dobja,
+akkor és egy lege az dobja is meg, de nekemége cserastan, a babást, régrájtani,
+voltan a rosszat választak, ahogy ezt a dobást, itt is végerájtjuk még egyszer.
+Jó, tehát akkor egyére lehetlen számok, de azt pedig újra definiálja, az ensit,
+tehát oda bekerül majd ez a szám, hogy jelenleg itt 10-on, és akkor 10-0 dobott egyet,
+a dobászámot, ráklikket, akkor ide, ez tújra, definiáltat, tehát beleditott a szettel,
+és dobott is egyet, dobott is egyet, és akkor ez a rész feladat is megban,
+nyom. Most ezt a felvehet, hogy egy kicsit újra fogjuk tervezni,
+mert úgy el a kitenevált ezt a programok, hogy ez a felső rész,
+mondjuk maradjon így, ez a felső rész, ez maradjon így, ez a dobás,
+amit együtt meg egy tünk ezt, tehát egyet, barra kell ennere a núra dikosszlokba átvinni,
+mert hogy szeretnék egyen feladatok még elvégeztni, ami feladatnál,
+a mentést, a mentést azt jelvégeztük a háptérben, az eskulben, az ettik ment,
+szeretném kérgistem igézt az, hogy és statistikátomnak jól is.
+A mentést néh, az enbe azok marad, ez esetleg átteszük ide, mentést,
+erro a tekst meg a csv-fine, gs-on, mentést nem lesz ségatok, hogy mondjuk kinden el,
+visszuk ezt átteszem ide, a núra dikosszlokba, nem a núra dikosszlokba, nem,
+mondjuk ide betesszük, és a kálán mégében műveleteket font készíten,
+hogy hozzá rendelni, amikor művelet az vegyen azt, hogy és statistikát kiólvasunk,
+mert egy érdig csak az volt, hogy be értünk az adatbájsmom, most kicsit szeretnék volgostni az adatbájsmom,
+és statistikál szeretnek kiólvasunk, és a kastmúnyokit megjányítjuk ide, nem be az osztokba,
+statistikát, tehát, hogy az egyig rökszített, de dobásokból egy összesítést, végezni,
+az nem a statistikát, hogy kiti elendelme, hogy ez a kedde neó, hogy az össze a kályszkúnyok ide,
+áttem néhmenz a dobásokat és rátőjök a dobás kombottis ide, elhez nég,
+és kiólvasás eredményeit ide, tennyink, akkor nyivállás egy kombott kell majd,
+hozzá rendelni, hogy közsesítés, gom, néhés akkor lesz az irás, mert egy olyvasás feladat,
+híletel, akkor idemék betem néhégy, nyik egy törlés, gombottis, tehát betemény egy törlés, gombottis.
+Nyok, tehát akkor ez egyszerűség, hogy egyik a lépésenként valahogy jól, hogy akkor ez a dobás bombott ide,
+te szüggel most a statistikát, ez meg ide, hejezül, most ez teszett szentem cseesszerű,
+ez nyoggy, helyeztük el a rapra tűennézeket, ha ez az enciás marad,
+itt van egy dobás gomb, de azt a dobás gombott, akkor azt az jelpe az első sorba volt,
+az betenénként második sorba, és az első oztokba, első oztokpában, kiliépés, az jól az eledmény gombott, visszolt az eledmény,
+ez maga az eledmény volt, ez pedig a második sor az jól, csak a núlagik oztokpába tennyégber,
+tehát akkor ez így, meg is törtésre ezt a dobás tesz, tideredettem, ott perig maga a dobások,
+megjelennek, tehát az el a palodalon, vagy így mindig tobunk egyet, amíg de bevagérvap,
+egy kétszázat, tobunk esakoraz, megjelennik, itt valami nem sztim, megjelmár, most doktam kétszázat és mindegy,
+valami felül írólik, nézzük meg ezt a dobás, dobás függényünk,
+mit történik, meg itt a dobás függény nézz, azt mondja, hogy itt van egy,
+ján, hogy ahá, idlesz a probléma, mert, hogy amikor ezt az eledményeket be elkezdjük léretlen dobásokat tennyi,
+akkor erőt test az eledményeket rekenen, núlászni és szerintem ez itt is volt, amikor igényholt el a núlásás.
+Nem csak azt valami, et ide előretettük, aloszniabt az indulástnális az kell, hogy núláron indújan,
+de mi előt elkezdünk dologni, munkorott kis kellene egy, núlásás, eladott kis kellene egy, núlásás,
+nem csak a nézzük meg, hogy ez nük helyes eledményeket ad el, mert sűnk, sűnk, menj ez úgy tűnk ezt íz,
+hogy egy 3%-t, hogy tűnk akkor ez már egy vért lesz názt erre, dobért vettizen két varszni, amikor be íra mászt, hogy húsz és dogunk egyet,
+azt mondjával jó, hogy csak 200, de tűnk, dogok, ez is 60, 3%, 80, körülbe, ez is jó, és
+úgy látom, hogy most a köze, ez emegy a út, a helyzet, akkor most van a ló sértékek, gyerennek itt meg, jó,
+nem akkor ez így ment, hogy ez a mombot, ez majd egy elarébtezem, és idően, hogy ez nem ezt kellene ide tenni, mert egyik a lemanjtük mindig, amit látom,
+akkor ez ide, mennen csészerű elhez, én az itt lévő bombokat meg nem fogjuk már használni meg az a Szkapcsorodó, figvényeket,
+az a bombokra nem lesz szükséged, de azt mondom, hogy azokatak már kis ígtat, hogy kik, ez nem toját itt voltak, a így mentés, mentés, szerint elétezek egy,
+ez a mentés, csejess, végment, és ez a lisé, és a mentés, és külön az kell, meg a mentés, tekst, a lékség,
+nyom, nem de egyet csak a bombokat szüntetem meg, funcciót meg kaittam, és lesz szeret nem ide az első, alá benni, és azt pedig a,
+ez a lóradikoszlóban, van, és a harmelik soroz, barata tot, no, tehát akkor ez van, jelen, pilatba, hogy itt dobunk egyet, és úgy gandom ez egy érdekis dobás,
+és az bekérő az esküljöbe, és a vért lenne szám dobást, hajtók egy, vagy egy, vagy a dobást, ami ide be van érgad el,
+és bérem hatom, hogy nyomkot százat dobja, no, és akkor most jön az a következő feladatunk, hogy, hogy,
+ez a, ahogy, a kióvasást végre hajta, nánk az aló, bársiból, és a kióvasás előed, mely ilyit ide betennik, rá,
+múgyjuk ide egy feliratot el, helyesztetnünk, hogy statistik, hogy összesítés, és az alatt, látjuk majd ezt az összesítés, de ilyen érgéztem, úrrik egyiket,
+a másik oztopot most nem használjuk, így terjeg van egy másik oztop, de az, aban incibess tévesen, més, a kileépést meg a harmelik oztopatettük,
+de mely egy debet ezek van, mit akkor a bekerül még egy oztop, akárod egy feliratot el is helyesztetünk, hogy,
+hogy, hogy, hogy, ahogy, színjük, mert, kinek másod, még, ha, minket, akkor, akkor, hogy, és az, amikor,
+helyeszt megjók egyet, összesítés, színjkel ezt, amit létra azon, és ezt a, mint, létéká, abban,
+szóára szottam, ember. Így, néz, azt mondja, hogy ezt a próbó, tehát, próbó, tehát, ebben, próbó, tehát, ebben, és akkor csak kell egy feliratot tekst,
+helyesztetek, és egy kicsit is, és ezt a sütés, és akkor, csak egy érte, és a perszt kellene, megjeléteni,
+összesit színjkel egen, és ez a, múl ez szerintem a, armenik, múl a egy, hát meg nézük, lehet, hogy, von tesz lesz,
+vagy, hogy, hogy, hogy, meggyengelt, van, összesítés, és akkor, helyesztetek, összesítés, és akkor, hogy, de, alá, forró, még helyeszt, né egy gombot, amik, gomb segítségével,
+egy, hőszesítést kérni a reskul el, adatbális, bohány, jó, hát akkor ide helyezek még egy gombot, hőszesítés gond,
+Upnáljályosztulni n guessként nagy tudラ sétos.
+Tecyektéká
+Alz bele
+Bartan
+RúdikBog
+bug
+Jó jól lehet.
+Szerintem.
+Szerintem.
+Szerintem.
+Jól lehet.
+Jelöjdenni.
+Mert a fognatodni.
+Ez összesítés.
+Szerintem.
+Szerintem.
+Szerintem.
+Hűgvény.
+Ívni.
+Jó.
+Ez tisodak tennünk.
+Kéjjálni tenni.
+Ez ugye van a rosszokban lesz.
+Minden állsink.
+Ez az első másiker a harbanik sor.
+Ez.
+Ez.
+Jászpéktem.
+Nem alítottam, de előbb a futást.
+Jó, és a kait lesz.
+Ez összesítés, kújde pekerül egy valamien érték.
+Ez lesz a összesítés.
+Eledményem.
+És a...
+Igen, mivel az összes a kújde elhelyes egytünk.
+Ez összesítés.
+Eledményit.
+Ahholy, majd a statistikafok.
+Megjálenni.
+És akkor erre egy mesőt.
+Ez szimket.
+Dehittre azunk.
+Minkat összesítés.
+Szimket.
+Egyen az, és ez majd nem ugye az mint a...
+mint a...
+Ez eredmény.
+Dobás eredményet.
+Ezt a káres másholytjuk itt.
+Ez mondom, hogy majd a múgyanés lesz.
+A formályd a mint nekem.
+És egy kesszázz összesítés.
+Egy szimket.
+Összesítés.
+Szimket.
+Ut, val.
