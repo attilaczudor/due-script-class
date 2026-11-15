@@ -6,7 +6,7 @@ def dobas():
     try:
         db = int(dobas_szam.get())
     except ValueError:
-        messagebox.showerror('Hiba', 'Nem számot adott meg!')
+        messagebox.showinfo('Hiba', message='Nem számot adott meg!')
         return
 
     eredmenyek = [0] * 7
@@ -15,7 +15,7 @@ def dobas():
 
     szoveg = ''
     for i in range(1, 7):
-        szoveg += f'{i}. = {eredmenyek[i]} db\n'
+        szoveg += f'{i}-es = {eredmenyek[i]} db\n'
     dobas_eredmenye.config(text=szoveg)
 
 root = tk.Tk()
