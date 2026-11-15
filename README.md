@@ -4,87 +4,87 @@
 - **Név**: Czudor Attila
 - **Tantárgy**: Szkript nyelvek (Dunaújvárosi Egyetem)
 - **Oktató**: Adamcsik János Béla
+- **GitHub**: [due-script-class](https://github.com/attilaczudor/due-script-class)
 
 ---
 
-## 1. Feladat leírása
+## 1. Az Alkalmazás Leírása
 
-A projekt egy grafikus felhasználói felülettel (Tkinter) rendelkező kockadobás-szimulációs és statisztikai alkalmazás. A program tetszőleges számú kockadobást képes szimulálni, ellenőrzi a felhasználói bevitelt, és a kapott statisztikai eredményeket több különböző formátumban perzisztálja, valamint relációs adatbázisban tárolja és aggregálja. A rendszer kliens-szerver architektúrát is megvalósít egy Flask alapú REST API mikro-szolgáltatáson keresztül.
+Ez a projekt egy Python nyelven írt, grafikus felhasználói felülettel (Tkinter) rendelkező kockadobás-szimulációs, perzisztencia- és kliens-szerver alkalmazás.
 
----
-
-## 2. Rendszerarchitektúra és Modulok
-
-### Főbb forrásfájlok:
-1. **`kocka.py`**: A kezdeti szimulációs logika és grafikus felület procedurális megvalósítása.
-2. **`kocka_class.py`**: A felületet és dobásszimulációt tartalmazó alaposztály (`Kockadobas`).
-3. **`kocka_app.py`**: A `Kockadobas` osztályból származtatott kibővített alkalmazás (`KockaApp`), amely megvalósítja a TXT, CSV, JSON és SQLite3 perzisztenciát, valamint a statisztikai aggregációt.
-4. **`backend.py`**: Flask webszerver, amely a `/api/uzenet` REST végponton keresztül szolgáltat JSON adatokat.
-5. **`main.py`**: A teljes rendszer fő indítóállománya, amely elindítja a grafikus felületet és kapcsolatot létesít a Flask háttérszolgáltatással.
-
----
-
-## 3. Használt modulok és függvények
-
-- **`tkinter` / `tkinter.ttk`**:
-  - `Tk()` – Alapablak létrehozása (`root`)
-  - `Label()`, `Button()`, `Entry()` – Grafikus vezérlőelemek
-  - `StringVar()` – Reaktív adatkapcsolat a beviteli mezőhöz
-  - `grid()`, `config()`, `destroy()`, `mainloop()` – Geometria- és állapotkezelés
-- **`tkinter.messagebox`**:
-  - `showinfo()`, `showwarning()`, `showerror()` – Felhasználói tájékoztató és hibakezelő párbeszédablakok
-- **`random`**:
-  - `randint()` – Véletlenszerű dobások és dobásszámok generálása
-- **`datetime`**:
-  - `datetime.now()`, `strftime()` – Időbélyegzés a mentési rekordokhoz
-- **`os`**:
-  - `os.path.exists()`, `os.path.getsize()` – Fájllétezés és fejlécellenőrzés
-- **`csv`**:
-  - `csv.writer()`, `writerow()` – CSV rekordok és fejlécek mentése
-- **`json`**:
-  - `json.load()`, `json.dump()` – JSON adatszerkezetek deszerializálása és perzisztálása
-- **`sqlite3`**:
-  - `connect()`, `cursor()`, `execute()`, `fetchone()`, `commit()` – Relációs adatbázis műveletek (DDL, DML, aggregáció)
-- **`flask`**:
-  - `Flask()`, `jsonify()`, `app.run()` – REST API végpontok kiszolgálása
-- **`requests`**:
-  - `requests.get()` – HTTP kérések indítása a backend szerver felé
+A rendszer főbb funkciói:
+- **Kockadobás szimulációja**: Tetszőleges számú dobás szimulálása véletlenszám-generálással, szigorú bemeneti validációval (csak számok, 1 és 10000 közötti értékek).
+- **Statisztikai kiértékelés**: A hat kockaoldal dobási gyakoriságának azonnali megjelenítése a grafikus felületen.
+- **Négyféle adatperzisztencia**:
+  - **Sima szöveges fájl (`mentes.txt`)**: Szótár formátumú sorok hozzáfűzése.
+  - **CSV táblázat (`mentes.csv`)**: Oszlopfejlécekkel és aktuális dátummal ellátott táblázatos mentés.
+  - **JSON dokumentum (`mentes.json`)**: Időbélyeggel kiegészített, strukturált JSON tömb tárolása.
+  - **SQLite relációs adatbázis (`mentes.db`)**: `dobasok` tábla automatikus létrehozása és rekordok rögzítése.
+- **Adatbázis-összesítés**: Az SQLite adatbázisban tárolt összes korábbi dobási rekord összegzése SQL aggregációval (`SELECT sum(...)`).
+- **REST API kapcsolat**: Kliens-szerver kommunikáció egy háttérben futó Flask mikroszolgáltatással HTTP GET kérésen keresztül.
 
 ---
 
-## 4. Osztályok
+## 2. Rendszerkövetelmények és Telepítés
 
-1. **`Kockadobas`** (`kocka_class.py`):
-   - Felelősség: Alapablak inicializálása, felületi elemek elhelyezése rácsos elrendezéssel (`grid`), bemeneti validáció (`1 <= db <= 10000`), dobások elvégzése és az eredmények felületi megjelenítése.
-2. **`KockaApp`** (`kocka_app.py`):
-   - Felelősség: A `Kockadobas` osztály kiterjesztése. Mentési funkciók megvalósítása (sima szöveges fájl `mentes.txt`, vesszővel tagolt `mentes.csv`, strukturált `mentes.json`, relációs `mentes.db` tábla), valamint véletlen dobásszám-sorsoló (`veletlen_dobasszam`) és SQLite összesítő (`osszesites_sql`).
-
----
-
-## 5. Telepítés és Futtatás
+### Rendszerkövetelmények:
+- **Python**: 3.9 vagy újabb (ajánlott: Python 3.12+) Tkinter támogatással.
+- **Operációs rendszer**: macOS, Windows vagy Linux.
 
 ### Függőségek telepítése:
-```bash
-pip install -r requirements.txt
-```
+A szükséges külső csomagokat a mellékelt `requirements.txt` fájl tartalmazza (`Flask`, `requests`).
 
-### 1. Lépés: Backend szerver indítása (opcionális terminálablakban)
+Nyiss egy terminált a projekt gyökérmappájában, és add ki a következő parancsot:
 ```bash
-python backend.py
-```
-A szerver a `http://127.0.0.1:5000` címen hallgat.
-
-### 2. Lépés: Alkalmazás indítása
-```bash
-python main.py
+pip3 install -r requirements.txt
 ```
 
 ---
 
-## 6. Órai Leiratok (Transcripts)
+## 3. A Program Használata és Futtatása
 
-A repository `data/` mappája tartalmazza az órák teljes, időbélyeges átiratait:
-- `data/transcript_20261012_gyakorlat.txt` (Gyakorlat – Kocka alapok)
-- `data/transcript_20261019_eloadas.txt` (Előadás – OOP refaktorálás és TXT mentés)
-- `data/transcript_20261026_eloadas.txt` (Előadás – CSV, JSON és SQLite3 alapok)
-- `data/transcript_20261102_eloadas.txt` (Előadás – SQLite összesítés és Flask kliens-szerver)
+Az alkalmazás kliens-szerver architektúrát használ, így a teljes funkcionalitás eléréséhez a backend szervert és a grafikus felületet két külön terminálablakban indítjuk.
+
+### 1. Lépés: A Flask Backend szerver indítása
+Nyiss egy terminálablakot a projekt gyökérmappájában, és indítsd el a backend szervert:
+```bash
+python3 backend.py
+```
+A szerver elindul a háttérben a `http://127.0.0.1:5000` címen, és elérhetővé teszi a `/api/uzenet` REST végpontot.
+
+### 2. Lépés: A Grafikus Felület (Főalkalmazás) indítása
+Egy második terminálablakban indítsd el a főprogramot:
+```bash
+python3 main.py
+```
+
+---
+
+## 4. Kezelőfelület és Funkciók
+
+A megjelenő grafikus ablakban az alábbi műveletek végezhetők el:
+
+| Gomb / Mező | Működés és Teendő |
+| :--- | :--- |
+| **Dobásszám beviteli mező** | Írd be a kívánt dobások számát (alapértelmezett: `10`, engedélyezett: `1 - 10000`). |
+| **Dobás** | Elvégzi a megadott számú kockadobást, és kiírja az egyes oldalak (1-estől 6-osig) darabszámait. Érvénytelen bemenet esetén hibaablakot jelenít meg. |
+| **Dobásszám** | Véletlenszerű dobásszámot generál (10 és 500 között), beírja a mezőbe, és automatikusan elvégzi a dobást. |
+| **Mentés - TEXT** | Az aktuális dobás eredményét hozzáfűzi a `mentes.txt` fájlhoz. |
+| **Mentés - CSV** | Az aktuális eredményt dátummal kiegészítve elmenti a `mentes.csv` fájlba (automatikusan létrehozza a fejlécet, ha még nincs). |
+| **Mentés - JSON** | Az eredményt időbélyeggel ellátva hozzáadja a `mentes.json` tömbhöz. |
+| **Mentés - SQL** | Rögzíti az eredményt a `mentes.db` SQLite adatbázis `dobasok` táblájába. |
+| **Összesítés** | Lekéri az adatbázisban tárolt összes korábbi dobás összegét, és megjeleníti az összesített darabszámokat a képernyőn. |
+| **Üzenet** | HTTP GET kérést küld a helyi Flask backendhez (`http://127.0.0.1:5000/api/uzenet`), és kiírja a kapott üzenetet (`Backend: ok`). |
+| **Kilépés** | Bezárja az alkalmazást. |
+
+---
+
+## 5. Fájlstruktúra és Modulok
+
+- **`main.py`**: A teljes integrált alkalmazás belépési pontja (GUI + REST hívások).
+- **`backend.py`**: A Flask REST API mikroszolgáltatás forráskódja.
+- **`kocka_app.py`**: A perzisztenciát (TXT, CSV, JSON, SQLite) és összesítést megvalósító `KockaApp` osztály.
+- **`kocka_class.py`**: Az ablakot, a rácsos elrendezést és a dobásszimulációt kezelő alaposztály (`Kockadobas`).
+- **`kocka.py`**: Az egyszerű, önálló kockadobó szimulátor.
+- **`requirements.txt`**: A külső függőségek specifikációja.
+- **`.gitignore`**: A futás közben generált adatbázis- és adatfájlok (`mentes.*`), valamint gyorsítótárak kizárása.
